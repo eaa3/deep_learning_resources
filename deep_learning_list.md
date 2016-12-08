@@ -1,4 +1,15 @@
-  * **Deep Learning**
+This is a list of useful deep learning materials that I have been organising as I study and collect more information about the subject. This list keeps growing, I have not yet went through everything I listed below, my brain is chewing it as time goes. If you want a good place to start then follow, you could follow my roadmap:
+
+**Roadmap for this list **
+
+* Step 1) Start with Nando's lectures
+* Step 2) David Silver's lectures if you would like to dive in reinforcement learning (Try to implement everything he teaches and keep a copy of Sutton and Barto's book with you at all times).
+* Step 3) Take some time to play around (code, code, play and code) and read papers. 
+* Step 4) Decide your own steps from this point onwards.
+
+
+
+* **Deep Learning**
     * **ConvNets**
       * <http://cs231n.github.io/convolutional-networks/>)
 
