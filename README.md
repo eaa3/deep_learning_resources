@@ -1,4 +1,4 @@
-This is a list of useful deep learning materials that I have been organising as I study and collect more information about the subject. This list keeps growing, I have not yet went through everything I listed below, my brain is chewing it as time goes. If you want a good place to start, then you could follow my roadmap below:
+This is a list of useful deep learning materials that I have been organising as I study.
 
 **Roadmap for this list**
 
